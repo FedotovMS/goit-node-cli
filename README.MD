@@ -16,3 +16,4 @@ node index.js -a add -n [name] -e [email] -p [phone]
 
 node index.js -a remove -i [id]
 
+.
