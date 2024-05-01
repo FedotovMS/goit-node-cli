@@ -15,5 +15,3 @@ node index.js -a add -n [name] -e [email] -p [phone]
 4. Remove the contact (displays the deleted contact object or null if the contact does not exist):
 
 node index.js -a remove -i [id]
-
-.
